@@ -1,211 +1,215 @@
-# Office_365_URL_Ranges
-*.aadrm.com
-*.acompli.net
-*.activity.windows.com
-*.appex.bing.com
-*.appex-rf.msn.com
-*.aria.microsoft.com
-*.assets-yammer.com
-*.auth.microsoft.com
-*.azure-apim.net
-*.azureedge.net
-*.azurerms.com
-*.blob.core.windows.net
-*.cloud.microsoft
-*.compliance.microsoft.com
-*.cortana.ai
-*.entrust.net
-*.events.data.microsoft.com
-*.flow.microsoft.com
-*.geotrust.com
-*.hip.live.com
-*.informationprotection.azure.com
-*.keydelivery.mediaservices.windows.net
-*.lync.com
-*.mail.protection.outlook.com
-*.media.azure.net
-*.microsoft.com
-*.microsoftonline.com
-*.microsoftonline-p.com
-*.microsoftstream.com
-*.microsoftusercontent.com
-*.msauth.net
-*.msauthimages.net
-*.msecnd.net
-*.msftauth.net
-*.msftauthimages.net
-*.msftidentity.com
-*.msidentity.com
-*.msocdn.com
-*.mx.microsoft
-*.o365weve.com
-*.office.com
-*.office.net
-*.office365.com
-*.officeapps.live.com
-*.omniroot.com
-*.onenote.com
-*.online.office.com
-*.onmicrosoft.com
-*.outlook.com
-*.outlookmobile.com
-*.phonefactor.net
-*.portal.cloudappsecurity.com
-*.powerapps.com
-*.powerautomate.com
-*.protection.office.com
-*.protection.outlook.com
-*.public-trust.com
-*.search.production.apac.trafficmanager.net
-*.search.production.emea.trafficmanager.net
-*.search.production.us.trafficmanager.net
-*.secure.skypeassets.com
-*.security.microsoft.com
-*.sharepoint.com
-*.sharepointonline.com
-*.skype.com
-*.static.microsoft
-*.streaming.mediaservices.windows.net
-*.svc.ms
-*.symcb.com
-*.symcd.com
-*.teams.microsoft.com
-*.usercontent.microsoft
-*.users.storage.live.com
-*.verisign.com
-*.verisign.net
-*.virtualearth.net
-*.wns.windows.com
-*.yammer.com
-*.yammerusercontent.com
-*cdn.onenote.net
-account.activedirectory.windowsazure.com
-account.live.com
-accounts.accesscontrol.windows.net
-activation.sls.microsoft.com
-activity.windows.com
-adl.windows.com
-admin.microsoft.com
-admin.onedrive.com
-adminwebservice.microsoftonline.com
-ajax.aspnetcdn.com
-aka.ms
-amp.azure.net
-api.passwordreset.microsoftonline.com
-apis.live.net
-apps.identrust.com
-appsforoffice.microsoft.com
-assets.onestore.ms
-auth.gfx.ms
-autodiscover.*.onmicrosoft.com
-autologon.microsoftazuread-sso.com
-becws.microsoftonline.com
-c.bing.com
-c.bing.net
-c.live.com
-c1.microsoft.com
-cacerts.digicert.com
-ccs.login.microsoftonline.com
-cdn.odc.officeapps.live.com
-cdn.uci.officeapps.live.com
-cert.int-x3.letsencrypt.org
-clientconfig.microsoftonline-p.net
-companymanager.microsoftonline.com
-compass-ssl.microsoft.com
-compliance.microsoft.com
-crl.globalsign.com
-crl.globalsign.net
-crl.identrust.com
-crl.microsoft.com
-crl3.digicert.com
-crl4.digicert.com
-d.docs.live.net
-dc.services.visualstudio.com
-defender.microsoft.com
-device.login.microsoftonline.com
-dgps.support.microsoft.com
-docs.live.net
-docs.microsoft.com
-ecn.dev.virtualearth.net
-enterpriseregistration.windows.net
-eus-www.sway-cdn.com
-eus-www.sway-extensions.com
-firstpartyapps.oaspapps.com
-g.live.com
-go.microsoft.com
-graph.microsoft.com
-graph.windows.net
-informationprotection.hosting.portal.azure.net
-isrg.trustid.ocsp.identrust.com
-login.live.com
-login.microsoft.com
-login.microsoftonline.com
-login.microsoftonline-p.com
-login.windows.net
-login.windows-ppe.net
-logincert.microsoftonline.com
-loginex.microsoftonline.com
-login-us.microsoftonline.com
-mem.gfx.ms
-mlccdn.blob.core.windows.net
-mlccdnprod.azureedge.net
-mscrl.microsoft.com
-msdn.microsoft.com
-nexus.microsoftonline-p.com
-nps.onyx.azure.net
-o15.officeredir.microsoft.com
-ocos-office365-s2s.msedge.net
-ocsp.digicert.com
-ocsp.globalsign.com
-ocsp.msocsp.com
-ocsp2.globalsign.com
-ocspx.digicert.com
-office.live.com
-office15client.microsoft.com
-officeapps.live.com
-officecdn.microsoft.com
-officecdn.microsoft.com.edgesuite.net
-officeclient.microsoft.com
-officepreviewredir.microsoft.com
-officeredir.microsoft.com
-officespeech.platform.bing.com
-oneclient.sfx.ms
-otelrules.azureedge.net
-outlook.cloud.microsoft
-outlook.office.com
-outlook.office365.com
-partnerservices.getmicrosoftkey.com
-passwordreset.microsoftonline.com
-platform.linkedin.com
-policykeyservice.dc.ad.msft.net
-prod.firstpartyapps.oaspapps.com.akadns.net
-prod.msocdn.com
-protection.office.com
-provisioningapi.microsoftonline.com
-r.office.microsoft.com
-secure.globalsign.com
-security.microsoft.com
-shellprod.msocdn.com
-signup.live.com
-smtp.office365.com
-spoprod-a.akamaihd.net
-ssw.live.com
-staffhub.ms
-storage.live.com
-support.microsoft.com
-sway.com
-teams.microsoft.com
-technet.microsoft.com
-telemetryservice.firstpartyapps.oaspapps.com
-tse1.mm.bing.net
-wus-firstpartyapps.oaspapps.com
-wus-www.sway-cdn.com
-wus-www.sway-extensions.com
-www.acompli.com
-www.bing.com
-www.digicert.com
-www.microsoft.com
-www.microsoft365.com
-www.onedrive.com
-www.outlook.com
-www.sway.com
+# Title: Latest Office 365 Ranges provided by Microsoft
+# https://github.com/gandalfthegreyking/Public/blob/main/Microsoft%20365/Office365URLRanges.txt
+# Date: 1st April 2024 12:32PM GMT
+# Number of Unique domains: 210
+# ===============================================================
+0.0.0.0 *.aadrm.com
+0.0.0.0 *.acompli.net
+0.0.0.0 *.activity.windows.com
+0.0.0.0 *.appex.bing.com
+0.0.0.0 *.appex-rf.msn.com
+0.0.0.0 *.aria.microsoft.com
+0.0.0.0 *.assets-yammer.com
+0.0.0.0 *.auth.microsoft.com
+0.0.0.0 *.azure-apim.net
+0.0.0.0 *.azureedge.net
+0.0.0.0 *.azurerms.com
+0.0.0.0 *.blob.core.windows.net
+0.0.0.0 *.cloud.microsoft
+0.0.0.0 *.compliance.microsoft.com
+0.0.0.0 *.cortana.ai
+0.0.0.0 *.entrust.net
+0.0.0.0 *.events.data.microsoft.com
+0.0.0.0 *.flow.microsoft.com
+0.0.0.0 *.geotrust.com
+0.0.0.0 *.hip.live.com
+0.0.0.0 *.informationprotection.azure.com
+0.0.0.0 *.keydelivery.mediaservices.windows.net
+0.0.0.0 *.lync.com
+0.0.0.0 *.mail.protection.outlook.com
+0.0.0.0 *.media.azure.net
+0.0.0.0 *.microsoft.com
+0.0.0.0 *.microsoftonline.com
+0.0.0.0 *.microsoftonline-p.com
+0.0.0.0 *.microsoftstream.com
+0.0.0.0 *.microsoftusercontent.com
+0.0.0.0 *.msauth.net
+0.0.0.0 *.msauthimages.net
+0.0.0.0 *.msecnd.net
+0.0.0.0 *.msftauth.net
+0.0.0.0 *.msftauthimages.net
+0.0.0.0 *.msftidentity.com
+0.0.0.0 *.msidentity.com
+0.0.0.0 *.msocdn.com
+0.0.0.0 *.mx.microsoft
+0.0.0.0 *.o365weve.com
+0.0.0.0 *.office.com
+0.0.0.0 *.office.net
+0.0.0.0 *.office365.com
+0.0.0.0 *.officeapps.live.com
+0.0.0.0 *.omniroot.com
+0.0.0.0 *.onenote.com
+0.0.0.0 *.online.office.com
+0.0.0.0 *.onmicrosoft.com
+0.0.0.0 *.outlook.com
+0.0.0.0 *.outlookmobile.com
+0.0.0.0 *.phonefactor.net
+0.0.0.0 *.portal.cloudappsecurity.com
+0.0.0.0 *.powerapps.com
+0.0.0.0 *.powerautomate.com
+0.0.0.0 *.protection.office.com
+0.0.0.0 *.protection.outlook.com
+0.0.0.0 *.public-trust.com
+0.0.0.0 *.search.production.apac.trafficmanager.net
+0.0.0.0 *.search.production.emea.trafficmanager.net
+0.0.0.0 *.search.production.us.trafficmanager.net
+0.0.0.0 *.secure.skypeassets.com
+0.0.0.0 *.security.microsoft.com
+0.0.0.0 *.sharepoint.com
+0.0.0.0 *.sharepointonline.com
+0.0.0.0 *.skype.com
+0.0.0.0 *.static.microsoft
+0.0.0.0 *.streaming.mediaservices.windows.net
+0.0.0.0 *.svc.ms
+0.0.0.0 *.symcb.com
+0.0.0.0 *.symcd.com
+0.0.0.0 *.teams.microsoft.com
+0.0.0.0 *.usercontent.microsoft
+0.0.0.0 *.users.storage.live.com
+0.0.0.0 *.verisign.com
+0.0.0.0 *.verisign.net
+0.0.0.0 *.virtualearth.net
+0.0.0.0 *.wns.windows.com
+0.0.0.0 *.yammer.com
+0.0.0.0 *.yammerusercontent.com
+0.0.0.0 *cdn.onenote.net
+0.0.0.0 account.activedirectory.windowsazure.com
+0.0.0.0 account.live.com
+0.0.0.0 accounts.accesscontrol.windows.net
+0.0.0.0 activation.sls.microsoft.com
+0.0.0.0 activity.windows.com
+0.0.0.0 adl.windows.com
+0.0.0.0 admin.microsoft.com
+0.0.0.0 admin.onedrive.com
+0.0.0.0 adminwebservice.microsoftonline.com
+0.0.0.0 ajax.aspnetcdn.com
+0.0.0.0 aka.ms
+0.0.0.0 amp.azure.net
+0.0.0.0 api.passwordreset.microsoftonline.com
+0.0.0.0 apis.live.net
+0.0.0.0 apps.identrust.com
+0.0.0.0 appsforoffice.microsoft.com
+0.0.0.0 assets.onestore.ms
+0.0.0.0 auth.gfx.ms
+0.0.0.0 autodiscover.*.onmicrosoft.com
+0.0.0.0 autologon.microsoftazuread-sso.com
+0.0.0.0 becws.microsoftonline.com
+0.0.0.0 c.bing.com
+0.0.0.0 c.bing.net
+0.0.0.0 c.live.com
+0.0.0.0 c1.microsoft.com
+0.0.0.0 cacerts.digicert.com
+0.0.0.0 ccs.login.microsoftonline.com
+0.0.0.0 cdn.odc.officeapps.live.com
+0.0.0.0 cdn.uci.officeapps.live.com
+0.0.0.0 cert.int-x3.letsencrypt.org
+0.0.0.0 clientconfig.microsoftonline-p.net
+0.0.0.0 companymanager.microsoftonline.com
+0.0.0.0 compass-ssl.microsoft.com
+0.0.0.0 compliance.microsoft.com
+0.0.0.0 crl.globalsign.com
+0.0.0.0 crl.globalsign.net
+0.0.0.0 crl.identrust.com
+0.0.0.0 crl.microsoft.com
+0.0.0.0 crl3.digicert.com
+0.0.0.0 crl4.digicert.com
+0.0.0.0 d.docs.live.net
+0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 defender.microsoft.com
+0.0.0.0 device.login.microsoftonline.com
+0.0.0.0 dgps.support.microsoft.com
+0.0.0.0 docs.live.net
+0.0.0.0 docs.microsoft.com
+0.0.0.0 ecn.dev.virtualearth.net
+0.0.0.0 enterpriseregistration.windows.net
+0.0.0.0 eus-www.sway-cdn.com
+0.0.0.0 eus-www.sway-extensions.com
+0.0.0.0 firstpartyapps.oaspapps.com
+0.0.0.0 g.live.com
+0.0.0.0 go.microsoft.com
+0.0.0.0 graph.microsoft.com
+0.0.0.0 graph.windows.net
+0.0.0.0 informationprotection.hosting.portal.azure.net
+0.0.0.0 isrg.trustid.ocsp.identrust.com
+0.0.0.0 login.live.com
+0.0.0.0 login.microsoft.com
+0.0.0.0 login.microsoftonline.com
+0.0.0.0 login.microsoftonline-p.com
+0.0.0.0 login.windows.net
+0.0.0.0 login.windows-ppe.net
+0.0.0.0 logincert.microsoftonline.com
+0.0.0.0 loginex.microsoftonline.com
+0.0.0.0 login-us.microsoftonline.com
+0.0.0.0 mem.gfx.ms
+0.0.0.0 mlccdn.blob.core.windows.net
+0.0.0.0 mlccdnprod.azureedge.net
+0.0.0.0 mscrl.microsoft.com
+0.0.0.0 msdn.microsoft.com
+0.0.0.0 nexus.microsoftonline-p.com
+0.0.0.0 nps.onyx.azure.net
+0.0.0.0 o15.officeredir.microsoft.com
+0.0.0.0 ocos-office365-s2s.msedge.net
+0.0.0.0 ocsp.digicert.com
+0.0.0.0 ocsp.globalsign.com
+0.0.0.0 ocsp.msocsp.com
+0.0.0.0 ocsp2.globalsign.com
+0.0.0.0 ocspx.digicert.com
+0.0.0.0 office.live.com
+0.0.0.0 office15client.microsoft.com
+0.0.0.0 officeapps.live.com
+0.0.0.0 officecdn.microsoft.com
+0.0.0.0 officecdn.microsoft.com.edgesuite.net
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 officepreviewredir.microsoft.com
+0.0.0.0 officeredir.microsoft.com
+0.0.0.0 officespeech.platform.bing.com
+0.0.0.0 oneclient.sfx.ms
+0.0.0.0 otelrules.azureedge.net
+0.0.0.0 outlook.cloud.microsoft
+0.0.0.0 outlook.office.com
+0.0.0.0 outlook.office365.com
+0.0.0.0 partnerservices.getmicrosoftkey.com
+0.0.0.0 passwordreset.microsoftonline.com
+0.0.0.0 platform.linkedin.com
+0.0.0.0 policykeyservice.dc.ad.msft.net
+0.0.0.0 prod.firstpartyapps.oaspapps.com.akadns.net
+0.0.0.0 prod.msocdn.com
+0.0.0.0 protection.office.com
+0.0.0.0 provisioningapi.microsoftonline.com
+0.0.0.0 r.office.microsoft.com
+0.0.0.0 secure.globalsign.com
+0.0.0.0 security.microsoft.com
+0.0.0.0 shellprod.msocdn.com
+0.0.0.0 signup.live.com
+0.0.0.0 smtp.office365.com
+0.0.0.0 spoprod-a.akamaihd.net
+0.0.0.0 ssw.live.com
+0.0.0.0 staffhub.ms
+0.0.0.0 storage.live.com
+0.0.0.0 support.microsoft.com
+0.0.0.0 sway.com
+0.0.0.0 teams.microsoft.com
+0.0.0.0 technet.microsoft.com
+0.0.0.0 telemetryservice.firstpartyapps.oaspapps.com
+0.0.0.0 tse1.mm.bing.net
+0.0.0.0 wus-firstpartyapps.oaspapps.com
+0.0.0.0 wus-www.sway-cdn.com
+0.0.0.0 wus-www.sway-extensions.com
+0.0.0.0 www.acompli.com
+0.0.0.0 www.bing.com
+0.0.0.0 www.digicert.com
+0.0.0.0 www.microsoft.com
+0.0.0.0 www.microsoft365.com
+0.0.0.0 www.onedrive.com
+0.0.0.0 www.outlook.com
+0.0.0.0 www.sway.com
