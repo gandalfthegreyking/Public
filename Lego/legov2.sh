@@ -397,7 +397,7 @@ run_lego() {
     domainName2="${DOMAIN_NAME2}"
     domainName3="${DOMAIN_NAME3}"
     domainName4="${DOMAIN_NAME4}"
-    domainName5="${DOMAIN_NAME6}"
+    domainName5="${DOMAIN_NAME5}"
     domainName6="${DOMAIN_NAME6}"
     domainName7="${DOMAIN_NAME7}"
     domainName8="${DOMAIN_NAME8}"
