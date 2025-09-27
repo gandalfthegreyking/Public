@@ -151,7 +151,7 @@ run_lego_cloudflare() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run
+            renew
     else
         CLOUDFLARE_DNS_API_TOKEN="${CLOUDFLARE_DNS_API_TOKEN}" \
             /home/kennyak/lego/dist/lego \
@@ -168,7 +168,7 @@ run_lego_cloudflare() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run \
+            renew \
             --preferred-chain="ISRG Root X1"
     fi
 }
@@ -195,7 +195,7 @@ run_lego_godaddy() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run
+            renew
     else
         GODADDY_API_KEY="${GODADDY_API_KEY}" \
             GODADDY_API_SECRET="${GODADDY_API_SECRET}" \
@@ -213,7 +213,7 @@ run_lego_godaddy() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run \
+            renew \
             --preferred-chain="ISRG Root X1"
     fi
 }
@@ -240,7 +240,7 @@ run_lego_porkbun() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run
+            renew
     else
         PORKBUN_API_KEY="${PORKBUN_API_KEY}" \
             PORKBUN_SECRET_API_KEY="${PORKBUN_SECRET_API_KEY}" \
@@ -258,7 +258,7 @@ run_lego_porkbun() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run \
+            renew \
             --preferred-chain="ISRG Root X1"
     fi
 }
@@ -284,7 +284,7 @@ run_lego_digitalocean() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run
+            renew
     else
         DO_AUTH_TOKEN="${DO_AUTH_TOKEN}" \
             /home/kennyak/lego/dist/lego \
@@ -301,7 +301,7 @@ run_lego_digitalocean() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run \
+            renew \
             --preferred-chain="ISRG Root X1"
     fi
 }
@@ -327,7 +327,7 @@ run_lego_dreamhost() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run
+            renew
     else
         DREAMHOST_API_KEY="${DREAMHOST_API_KEY}" \
             /home/kennyak/lego/dist/lego \
@@ -344,7 +344,7 @@ run_lego_dreamhost() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run \
+            renew \
             --preferred-chain="ISRG Root X1"
     fi
 }
@@ -370,7 +370,7 @@ run_lego_duckdns() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run
+            renew
     else
         DUCKDNS_TOKEN="${DUCKDNS_TOKEN}" \
             /home/kennyak/lego/dist/lego \
@@ -387,7 +387,7 @@ run_lego_duckdns() {
             --domains "${domainName9}" \
             --email "${email}" \
             --cert.timeout 600 \
-            run \
+            renew \
             --preferred-chain="ISRG Root X1"
     fi
 }
