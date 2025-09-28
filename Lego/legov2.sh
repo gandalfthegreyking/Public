@@ -470,3 +470,5 @@ check_env
 run_lego
 
 copy_certificate
+
+systemctl restart AdGuardHome
